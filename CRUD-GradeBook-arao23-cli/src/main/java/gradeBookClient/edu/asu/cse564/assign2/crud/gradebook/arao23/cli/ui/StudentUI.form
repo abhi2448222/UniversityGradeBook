@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Form version="1.3" maxVersion="1.9" type="org.netbeans.modules.form.forminfo.JFrameFormInfo">
+  <Properties>
+    <Property name="defaultCloseOperation" type="int" value="3"/>
+  </Properties>
+  <SyntheticProperties>
+    <SyntheticProperty name="formSize" type="java.awt.Dimension" value="-84,-19,0,5,115,114,0,18,106,97,118,97,46,97,119,116,46,68,105,109,101,110,115,105,111,110,65,-114,-39,-41,-84,95,68,20,2,0,2,73,0,6,104,101,105,103,104,116,73,0,5,119,105,100,116,104,120,112,0,0,1,-9,0,0,2,-83"/>
+    <SyntheticProperty name="formSizePolicy" type="int" value="0"/>
+    <SyntheticProperty name="generateSize" type="boolean" value="true"/>
+    <SyntheticProperty name="generateCenter" type="boolean" value="true"/>
+  </SyntheticProperties>
+  <AuxValues>
+    <AuxValue name="FormSettings_autoResourcing" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_autoSetComponentName" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_generateFQN" type="java.lang.Boolean" value="true"/>
+    <AuxValue name="FormSettings_generateMnemonicsCode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_i18nAutoMode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_layoutCodeTarget" type="java.lang.Integer" value="1"/>
+    <AuxValue name="FormSettings_listenerGenerationStyle" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_variablesLocal" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_variablesModifier" type="java.lang.Integer" value="2"/>
+  </AuxValues>
+
+  <Layout>
+    <DimensionLayout dim="0">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Group type="102" alignment="1" attributes="0">
+              <EmptySpace max="32767" attributes="0"/>
+              <Group type="103" groupAlignment="1" attributes="0">
+                  <Component id="MEDIA_TYPE_TEXT" min="-2" pref="209" max="-2" attributes="0"/>
+                  <Group type="103" groupAlignment="0" attributes="0">
+                      <Component id="jSeparator3" min="-2" pref="550" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="1" attributes="0">
+                          <Component id="jSeparator2" min="-2" pref="550" max="-2" attributes="0"/>
+                          <Component id="jSeparator1" min="-2" pref="550" max="-2" attributes="0"/>
+                          <Group type="102" attributes="0">
+                              <Group type="103" groupAlignment="0" attributes="0">
+                                  <Component id="MAX_WT_LABEL" alignment="0" min="-2" pref="100" max="-2" attributes="0"/>
+                                  <Component id="FEEDBACK_LABEL" alignment="0" min="-2" pref="69" max="-2" attributes="0"/>
+                                  <Component id="GRADEITEM_LABEL" alignment="0" min="-2" pref="100" max="-2" attributes="0"/>
+                                  <Component id="MARKS_OBTAINED_LABEL" min="-2" pref="161" max="-2" attributes="0"/>
+                                  <Group type="102" alignment="0" attributes="0">
+                                      <Component id="RESPONSE_LABEL" min="-2" max="-2" attributes="0"/>
+                                      <EmptySpace min="-2" pref="25" max="-2" attributes="0"/>
+                                      <Component id="RESPONSE_TEXT" min="-2" pref="136" max="-2" attributes="0"/>
+                                      <EmptySpace type="separate" max="-2" attributes="0"/>
+                                      <Component id="MEDIA_LABEL" min="-2" max="-2" attributes="0"/>
+                                  </Group>
+                              </Group>
+                              <EmptySpace min="-2" pref="241" max="-2" attributes="0"/>
+                          </Group>
+                      </Group>
+                      <Group type="102" alignment="0" attributes="0">
+                          <Component id="ID_LABEL" min="-2" pref="71" max="-2" attributes="0"/>
+                          <EmptySpace min="-2" pref="75" max="-2" attributes="0"/>
+                          <Group type="103" groupAlignment="0" attributes="0">
+                              <Component id="NAME_GRADEITEM" min="-2" pref="210" max="-2" attributes="0"/>
+                              <Component id="ID_STU_TEXT" min="-2" pref="210" max="-2" attributes="0"/>
+                              <Component id="MAX_WEIGHTAGE" alignment="0" min="-2" pref="210" max="-2" attributes="0"/>
+                              <Component id="MARKS_OBTAINED" alignment="0" min="-2" pref="210" max="-2" attributes="0"/>
+                              <Component id="FEEDBACK_GOT" alignment="0" min="-2" pref="210" max="-2" attributes="0"/>
+                          </Group>
+                      </Group>
+                  </Group>
+              </Group>
+              <EmptySpace min="-2" pref="63" max="-2" attributes="0"/>
+          </Group>
+          <Group type="102" attributes="0">
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Group type="102" alignment="0" attributes="0">
+                      <EmptySpace min="-2" pref="268" max="-2" attributes="0"/>
+                      <Component id="jLabel1" min="-2" max="-2" attributes="0"/>
+                  </Group>
+                  <Group type="102" alignment="0" attributes="0">
+                      <EmptySpace min="-2" pref="195" max="-2" attributes="0"/>
+                      <Component id="MAIN_BUTTON_SUBMIT" min="-2" max="-2" attributes="0"/>
+                  </Group>
+                  <Group type="102" alignment="0" attributes="0">
+                      <EmptySpace min="-2" pref="409" max="-2" attributes="0"/>
+                      <Component id="BUTTON1_BACK" min="-2" max="-2" attributes="0"/>
+                  </Group>
+              </Group>
+              <EmptySpace max="32767" attributes="0"/>
+          </Group>
+          <Group type="102" attributes="0">
+              <EmptySpace max="32767" attributes="0"/>
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Group type="102" attributes="0">
+                      <Component id="APEAL_TEXT_LABEL" min="-2" pref="75" max="-2" attributes="0"/>
+                      <EmptySpace type="separate" max="-2" attributes="0"/>
+                      <Component id="APPEAL_TEXT" min="-2" pref="450" max="-2" attributes="0"/>
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Component id="SUBMIT_APPEAL_BUTTON" min="-2" pref="100" max="-2" attributes="0"/>
+                  </Group>
+                  <Component id="jLabel4" min="-2" pref="580" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace max="32767" attributes="0"/>
+          </Group>
+      </Group>
+    </DimensionLayout>
+    <DimensionLayout dim="1">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Group type="102" alignment="0" attributes="0">
+              <EmptySpace min="-2" pref="21" max="-2" attributes="0"/>
+              <Component id="jSeparator1" min="-2" pref="10" max="-2" attributes="0"/>
+              <EmptySpace max="-2" attributes="0"/>
+              <Component id="jLabel1" min="-2" max="-2" attributes="0"/>
+              <EmptySpace type="unrelated" max="-2" attributes="0"/>
+              <Component id="jSeparator2" min="-2" pref="10" max="-2" attributes="0"/>
+              <EmptySpace type="unrelated" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="ID_STU_TEXT" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="ID_LABEL" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace min="10" pref="10" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="NAME_GRADEITEM" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="GRADEITEM_LABEL" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace min="10" pref="10" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="MAX_WEIGHTAGE" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="MAX_WT_LABEL" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace min="10" pref="10" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="MARKS_OBTAINED" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="MARKS_OBTAINED_LABEL" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace min="10" pref="10" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="FEEDBACK_GOT" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="FEEDBACK_LABEL" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace min="-2" pref="18" max="-2" attributes="0"/>
+              <Component id="jSeparator3" min="-2" pref="10" max="-2" attributes="0"/>
+              <EmptySpace type="unrelated" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Component id="RESPONSE_LABEL" min="-2" max="-2" attributes="0"/>
+                  <Group type="103" groupAlignment="3" attributes="0">
+                      <Component id="RESPONSE_TEXT" alignment="3" min="-2" max="-2" attributes="0"/>
+                      <Component id="MEDIA_LABEL" alignment="3" min="-2" max="-2" attributes="0"/>
+                      <Component id="MEDIA_TYPE_TEXT" alignment="3" min="-2" max="-2" attributes="0"/>
+                  </Group>
+              </Group>
+              <EmptySpace type="separate" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Component id="MAIN_BUTTON_SUBMIT" alignment="0" min="-2" max="-2" attributes="0"/>
+                  <Component id="BUTTON1_BACK" alignment="0" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace type="separate" max="-2" attributes="0"/>
+              <Component id="jLabel4" min="-2" max="-2" attributes="0"/>
+              <EmptySpace type="separate" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="APEAL_TEXT_LABEL" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="APPEAL_TEXT" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="SUBMIT_APPEAL_BUTTON" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace pref="66" max="32767" attributes="0"/>
+          </Group>
+      </Group>
+    </DimensionLayout>
+  </Layout>
+  <SubComponents>
+    <Component class="javax.swing.JLabel" name="jLabel1">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Know Your Grades"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="ID_LABEL">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Student Id"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="GRADEITEM_LABEL">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Grade Item Name"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="MAX_WT_LABEL">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Weightage (max wt)"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="MARKS_OBTAINED_LABEL">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Marks/Grades obtained"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="FEEDBACK_LABEL">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Feedback"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JTextField" name="ID_STU_TEXT">
+    </Component>
+    <Component class="javax.swing.JTextField" name="NAME_GRADEITEM">
+    </Component>
+    <Component class="javax.swing.JTextField" name="MAX_WEIGHTAGE">
+    </Component>
+    <Component class="javax.swing.JTextField" name="MARKS_OBTAINED">
+    </Component>
+    <Component class="javax.swing.JTextField" name="FEEDBACK_GOT">
+    </Component>
+    <Component class="javax.swing.JLabel" name="RESPONSE_LABEL">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Response Code"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JTextField" name="MEDIA_TYPE_TEXT">
+    </Component>
+    <Component class="javax.swing.JTextField" name="RESPONSE_TEXT">
+    </Component>
+    <Component class="javax.swing.JLabel" name="MEDIA_LABEL">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Media Type"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JSeparator" name="jSeparator1">
+    </Component>
+    <Component class="javax.swing.JSeparator" name="jSeparator2">
+    </Component>
+    <Component class="javax.swing.JSeparator" name="jSeparator3">
+    </Component>
+    <Component class="javax.swing.JLabel" name="APEAL_TEXT_LABEL">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Write Appeal"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JButton" name="BUTTON1_BACK">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Back"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="BUTTON1_BACKActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JButton" name="SUBMIT_APPEAL_BUTTON">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Appeal"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="SUBMIT_APPEAL_BUTTONActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JButton" name="MAIN_BUTTON_SUBMIT">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="GetGrades"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="MAIN_BUTTON_SUBMITActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JTextField" name="APPEAL_TEXT">
+    </Component>
+    <Component class="javax.swing.JLabel" name="jLabel4">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Tahoma" size="14" style="1"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="Write a appeal request and Click on Appeal if you are not happy with the Grade"/>
+      </Properties>
+    </Component>
+  </SubComponents>
+</Form>
